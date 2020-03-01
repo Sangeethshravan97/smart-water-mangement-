@@ -7,8 +7,8 @@
 
 #define FIREBASE_HOST "www.firebaseiso.com" // host name
 #define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" // auth key
-#define WIFI_SSID "Hawkeye"
-#define WIFI_PASSWORD "Human1936"
+#define WIFI_SSID "xxxxx"
+#define WIFI_PASSWORD "xxxx"
 
 WiFiClient client;
 
